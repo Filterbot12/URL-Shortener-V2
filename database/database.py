@@ -1,4 +1,4 @@
-# (c) @Royalkrrishna
+# (c) @ask_admin001
 
 from config import *
 import pymongo
